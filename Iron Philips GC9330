@@ -1,0 +1,6 @@
+Board: AQUA PRO POWER PCBA PP V3.5
+Microprocessor: PIC16F1936-E/SO
+
+Found a faulty device that keeps pumping water onto the boiler too frequently
+which finally makes the iron to blow hot water and not steam (even by starting the system 
+with an empty boiler) it takes about 20-35 minutes to drown in water and stop functioning as intended.
