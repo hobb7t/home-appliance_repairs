@@ -1,0 +1,7 @@
+We had a faulty coil sensor on a this specific device. We were seeing the error "E1".
+
+While checking the English version of the manual we found the explanation. The coil sensor is just an ordinary
+temperature sensor with two contacts. By checking the resistance of the component we didn't found any issue
+so we did a reset to the device by holding the power button and plug the device to mains.
+The led screen starts counting from 9 to 0 and then nothing happened, since we had the same error.
+We tried another temperature sensor and after a reset the device started operating again.
