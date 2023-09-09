@@ -1,6 +1,14 @@
-Greetings fellow git'ers
+Greetings, fellow Git enthusiasts,
 
-I started this Git as I jumped into a new career path as a home appliances technician. My previous experience and degree with computer systems, networks and applications, robotics and homelab equipment seems pretty useful, but there are tons of stuff to be learned yet :)
-Many times I struggle with some specific devices which become a pain, since their boards (yeap, more electronic parts, more chances for faulty ones) may be faulty and there is no way to find any schematics or support to fix 'em.
-I though that it is going to be a great addition for anyone who may stuck in such situation, by the time I will add different devices that I do believe they worth to be shared here (since I will need help to fix them)
-Feel free to enjoy all the information and also share your thoughts and experiences
+I embarked on this Git journey as I ventured into a fresh career path as a home appliances technician.
+My previous expertise and academic background in computer systems, networks, applications, robotics, and homelab
+equipment have proven quite valuable. Nevertheless, there's a wealth of knowledge yet to be acquired.
+
+Many times, I find myself grappling with the intricacies of specific devices, particularly those with finicky electronic components.
+These devices can be a real headache, especially when their circuitry is awry, and the lack
+of available schematics or support compounds the challenge.
+
+I envisioned this repository as a valuable resource for anyone encountering such dilemmas.
+As I encounter and address various devices, I plan to share my insights here, believing that
+they are worth disseminating. Furthermore, I welcome you all to partake in this repository, to glean
+knowledge and share your own thoughts and experiences. Together, we can build a community that thrives on shared expertise.
